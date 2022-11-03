@@ -1,0 +1,9 @@
+
+# 配置文件
+**/_conf_*.py
+**/_demo*.py
+__pycache__
+
+/out
+case-*.json
+!case-example.json
